@@ -5,7 +5,8 @@
 
 
 <h1>Simple steps to creating a Virtual Machine in Azure.</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we observe one of the various ways you can setup a virtual machine in Azure.  I tried to keep
+this tutorial as simple as possible.  Just believe in yourself, and you can do this. Good Luck!!<br />
 
 
 <h2>Video Demonstration</h2>
