@@ -31,7 +31,7 @@ this tutorial as simple as possible.  Just believe in yourself, and you can do t
 - Step 3
 - Step 4
 
-<h2>Actions and Observations</h2>
+<h2>So Lets Get Started</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
