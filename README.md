@@ -1,19 +1,16 @@
 # Create-Virtual-Machine
-Simple steps to creating a Virtual Machine in Azure.
 
 
+![microsoft-azure-logo](https://github.com/techwithterrence/Create-Virtual-Machine/assets/174138674/1cef1778-a096-4dbf-b304-503e97d71924)
 
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1>Simple steps to creating a Virtual Machine in Azure.</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Azure Virtual Machine Quick Setup Guide](https://youtu.be/9FCHsSQ4GK8?si=Yf0xkNH9phhT7FVd)
 
 <h2>Environments and Technologies Used</h2>
 
