@@ -81,3 +81,8 @@ this tutorial as simple as possible.  Just believe in yourself, and you can do t
 
 
 
+
+![Complete-Stamp-1024x356](https://github.com/techwithterrence/Create-Virtual-Machine/assets/174138674/93c8bc5f-ed26-4a0e-874b-e3f5f55bbc96)
+
+
+
